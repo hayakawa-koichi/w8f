@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w8f&?hide=VBA)](https://github.com/w8f/github-readme-stats)
 <!--
 **w8f/w8f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
