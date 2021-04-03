@@ -30,7 +30,7 @@
 ## Top languages🖊️
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w8f&hide=VBA)](https://github.com/w8f/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w8f&hide=VBA&theme=tokyonight)](https://github.com/w8f/github-readme-stats)
 
 ## skill
 ###  言語・フレームワーク等
