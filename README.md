@@ -1,15 +1,11 @@
 ### Hi there 👋
- 🌱 フロントエンドに興味ありなエンジニア3年生 React,TypeScript,Golang,など浅く広く勉強中
+ 🌱 フロントエンドに興味ありなエンジニア3年生
 
 ## My Profile👨🏻‍💻
 <table>
   <tr>
     <th>KEY</th>
     <th>VALUE</th>
-  </tr>
-  <tr>
-    <td style="text-align=center;">名前</td>
-    <td>Koichi Hayakawa</td>
   </tr>
   <tr>
     <td>生年月日</td>
@@ -37,10 +33,11 @@
 - Java（ SpringBoot ） 
 - JavaScript（ Vue.js, React.js ）
 - SQL( PostgreSQL,MySQL )
-- Docker,Docker-compose　　　※独学
+- Docker,Docker-compose　　　※独学レベル
 - AWS( EC2,Amplify ) 　　※実務経験なしのため勉強中。⚡
 ### その他
-ウォーターフォール型の実装〜運用・保守を中心に、機能ベースでの開発経験あり。
+- ウォーターフォール型の実装〜運用・保守を中心に、機能ベースでの開発経験あり。
+- React,TypeScript,Golangやインフラ周り（AWS）など浅く広く勉強中
 <!--
 **w8f/w8f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
