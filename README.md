@@ -31,12 +31,13 @@
 ## skill
 ###  言語・フレームワーク等
 - Java（ SpringBoot ） 
-- JavaScript（ Vue.js, React.js ）
+- Python（ Django ） 
+- JavaScript（ Vue.js, React.js ）, TypeScript
 - SQL( PostgreSQL,MySQL )
 - Docker,Docker-compose　　　※独学レベル
 - AWS( EC2,Amplify ) 　　※実務経験なしのため勉強中。⚡
 ### その他
-- ウォーターフォール型の実装〜運用・保守を中心に、機能ベースでの開発経験あり。
+- ウォーターフォール型の開発〜運用・保守を中心に、機能ベースでの開発経験あり。
 - React,TypeScript,Golangやインフラ周り（AWS）など浅く広く勉強中
 <!--
 **w8f/w8f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
