@@ -1,28 +1,3 @@
-### Hi there 👋
- 🌱 フロントエンドに興味ありなエンジニア3年生
-
-## My Profile👨🏻‍💻
-<table>
-  <tr>
-    <th>KEY</th>
-    <th>VALUE</th>
-  </tr>
-  <tr>
-    <td>生年月日</td>
-    <td>1997/2/22 (24歳)</td>
-  </tr>
-  <tr>
-    <td>職業</td>
-    <td>PG（3年目）</td>
-  </tr>
-  <tr>
-    <td>趣味</td>
-    <td>サウナ、Netflix、野球観戦、音楽聞いたり、、等</td>
-  </tr>
-
-</table>
-
-
 ## Top languages🖊️
 
 
@@ -36,7 +11,6 @@
 - JavaScript（ Vue.js, React.js ）, TypeScript
 - SQL( PostgreSQL,MySQL )
 - Docker,Docker-compose
-- AWS( EC2,Amplify,Lambda ) 　　※AWSに関しては実務経験なしのため勉強中。⚡
 ### その他
 - ウォーターフォール型の開発〜運用・保守を中心に、機能ベースでの開発経験あり。
 - フロント、バックエンド、インフラ周り（AWS）で、興味・関心のある分野を浅く広く勉強中。
