@@ -11,7 +11,7 @@
 - JavaScript（ Vue.js, React.js, Next.js ）, TypeScript
 - SQL( PostgreSQL, MySQL )
 - Docker,Docker-compose
-- Graphql勉強中
+- GraphQL勉強中
 ### その他
 - ウォーターフォール型の開発〜運用・保守を中心に、画面・API・バッチ開発経験あり。
 - フロントエンド分野を中心に、興味・関心のある分野を勉強中。
